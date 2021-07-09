@@ -6,6 +6,6 @@
     "assets": {
         "internal": "1234",
         "main": "3456",
-        "resources": "5678",
+        "resources": "5678"
     }
 }
