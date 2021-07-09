@@ -1,0 +1,11 @@
+{
+   "android":0,
+    "ios":0,
+    "api":"https://banca.center:2111/api",
+    "resource":"https://banca.center/bundle/resource",
+    "assets": {
+        "internal": "1234",
+        "main": "3456",
+        "resources": "5678",
+    }
+}
